@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/layafakher.github.io/static/css/main.dc7fa2df.css",
+    "main.js": "/layafakher.github.io/static/js/main.c47573ec.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/layafakher.github.io/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/me.jpg": "/layafakher.github.io/static/media/me.b82ddc5436dcd78ffad2.jpg",
+    "static/media/profilephoto.jpg": "/layafakher.github.io/static/media/profilephoto.b82ddc5436dcd78ffad2.jpg",
+    "static/media/lady.png": "/layafakher.github.io/static/media/lady.2003e7a2b1eaf39c25f2.png",
+    "static/media/bg-1.jpg": "/layafakher.github.io/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/man.png": "/layafakher.github.io/static/media/man.b065ac14521e88e26b28.png",
+    "static/media/mike.png": "/layafakher.github.io/static/media/mike.cbbd72af6c702d999126.png",
+    "static/media/Poppins-Thin.ttf": "/layafakher.github.io/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/layafakher.github.io/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/layafakher.github.io/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/layafakher.github.io/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/layafakher.github.io/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/layafakher.github.io/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/layafakher.github.io/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/mailz.jpeg": "/layafakher.github.io/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/bg.jpg": "/layafakher.github.io/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/layafakher.github.io/index.html",
+    "main.dc7fa2df.css.map": "/layafakher.github.io/static/css/main.dc7fa2df.css.map",
+    "main.c47573ec.js.map": "/layafakher.github.io/static/js/main.c47573ec.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/layafakher.github.io/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7fa2df.css",
+    "static/js/main.c47573ec.js"
+  ]
+}
